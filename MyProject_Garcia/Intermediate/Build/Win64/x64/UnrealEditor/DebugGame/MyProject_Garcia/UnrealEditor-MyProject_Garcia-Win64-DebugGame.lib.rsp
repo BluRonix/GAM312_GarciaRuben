@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyProject_Garcia-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\blue1\Documents\Unreal Projects\GAM312TEST\MyProject_Garcia\Intermediate\Build\Win64\x64\MyProject_GarciaEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"C:\Users\blue1\Documents\Unreal Projects\GAM312TEST\MyProject_Garcia\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyProject_Garcia\MyGameModeBaseGAM312.gen.cpp.obj"
+"C:\Users\blue1\Documents\Unreal Projects\GAM312TEST\MyProject_Garcia\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyProject_Garcia\MyGameStateBase.gen.cpp.obj"
+"C:\Users\blue1\Documents\Unreal Projects\GAM312TEST\MyProject_Garcia\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyProject_Garcia\MyProject_Garcia.init.gen.cpp.obj"
+"C:\Users\blue1\Documents\Unreal Projects\GAM312TEST\MyProject_Garcia\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyProject_Garcia\PlayerChar.gen.cpp.obj"
+"C:\Users\blue1\Documents\Unreal Projects\GAM312TEST\MyProject_Garcia\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyProject_Garcia\Resource_M.gen.cpp.obj"
+"C:\Users\blue1\Documents\Unreal Projects\GAM312TEST\MyProject_Garcia\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyProject_Garcia\MyProject_Garcia.cpp.obj"
+"C:\Users\blue1\Documents\Unreal Projects\GAM312TEST\MyProject_Garcia\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyProject_Garcia\MyGameModeBaseGAM312.cpp.obj"
+"C:\Users\blue1\Documents\Unreal Projects\GAM312TEST\MyProject_Garcia\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyProject_Garcia\MyGameStateBase.cpp.obj"
+"C:\Users\blue1\Documents\Unreal Projects\GAM312TEST\MyProject_Garcia\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyProject_Garcia\PlayerChar.cpp.obj"
+"C:\Users\blue1\Documents\Unreal Projects\GAM312TEST\MyProject_Garcia\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyProject_Garcia\Resource_M.cpp.obj"
+"C:\Users\blue1\Documents\Unreal Projects\GAM312TEST\MyProject_Garcia\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyProject_Garcia\Default.rc2.res"
+/OUT:"C:\Users\blue1\Documents\Unreal Projects\GAM312TEST\MyProject_Garcia\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyProject_Garcia\UnrealEditor-MyProject_Garcia-Win64-DebugGame.lib"

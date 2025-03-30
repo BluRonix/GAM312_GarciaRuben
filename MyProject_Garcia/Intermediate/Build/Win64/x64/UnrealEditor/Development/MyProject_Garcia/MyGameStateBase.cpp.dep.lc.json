@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\blue1\\documents\\unreal projects\\gam312test\\myproject_garcia\\source\\myproject_garcia\\private\\mygamestatebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\blue1\\documents\\unreal projects\\gam312test\\myproject_garcia\\intermediate\\build\\win64\\x64\\myproject_garciaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\blue1\\documents\\unreal projects\\gam312test\\myproject_garcia\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject_garcia\\definitions.myproject_garcia.h",
+            "c:\\users\\blue1\\documents\\unreal projects\\gam312test\\myproject_garcia\\source\\myproject_garcia\\public\\mygamestatebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestatebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestatebase.generated.h",
+            "c:\\users\\blue1\\documents\\unreal projects\\gam312test\\myproject_garcia\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject_garcia\\uht\\mygamestatebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

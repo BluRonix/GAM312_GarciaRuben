@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\blue1\\documents\\unreal projects\\gam312test\\myproject_garcia\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject_garcia\\uht\\resource_m.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\blue1\\documents\\unreal projects\\gam312test\\myproject_garcia\\intermediate\\build\\win64\\x64\\myproject_garciaeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\blue1\\documents\\unreal projects\\gam312test\\myproject_garcia\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\myproject_garcia\\definitions.myproject_garcia.h",
+            "c:\\users\\blue1\\documents\\unreal projects\\gam312test\\myproject_garcia\\source\\myproject_garcia\\public\\resource_m.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\textrendercomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\textrendercomponent.generated.h",
+            "c:\\users\\blue1\\documents\\unreal projects\\gam312test\\myproject_garcia\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject_garcia\\uht\\resource_m.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
