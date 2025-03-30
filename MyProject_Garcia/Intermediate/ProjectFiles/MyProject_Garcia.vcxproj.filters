@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyProject_Garcia.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject_Garcia.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyProject_GarciaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyProject_Garcia">
+      <UniqueIdentifier>{463F2926-B051-3359-B592-204BCB14FE9F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject_Garcia\MyProject_Garcia.Build.cs">
+      <Filter>Source\MyProject_Garcia</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyProject_Garcia\MyProject_Garcia.cpp">
+      <Filter>Source\MyProject_Garcia</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject_Garcia\MyProject_Garcia.h">
+      <Filter>Source\MyProject_Garcia</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyProject_Garcia\Private">
+      <UniqueIdentifier>{0C892AD0-51B1-3D8A-80F7-CB3C6B5A6D15}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject_Garcia\Private\MyGameModeBaseGAM312.cpp">
+      <Filter>Source\MyProject_Garcia\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyProject_Garcia\Private\MyGameStateBase.cpp">
+      <Filter>Source\MyProject_Garcia\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyProject_Garcia\Private\PlayerChar.cpp">
+      <Filter>Source\MyProject_Garcia\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyProject_Garcia\Private\Resource_M.cpp">
+      <Filter>Source\MyProject_Garcia\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MyProject_Garcia\Public">
+      <UniqueIdentifier>{9B105B34-767B-3606-B2CE-6E615EF7481D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MyProject_Garcia\Public\MyGameModeBaseGAM312.h">
+      <Filter>Source\MyProject_Garcia\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyProject_Garcia\Public\MyGameStateBase.h">
+      <Filter>Source\MyProject_Garcia\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyProject_Garcia\Public\PlayerChar.h">
+      <Filter>Source\MyProject_Garcia\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyProject_Garcia\Public\Resource_M.h">
+      <Filter>Source\MyProject_Garcia\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
